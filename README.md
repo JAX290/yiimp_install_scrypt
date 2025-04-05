@@ -1,4 +1,4 @@
-# Yiimp_install_scrypt v1.0 (update msy2008, 2024)
+# Yiimp_install_scrypt v1.0 (update JAX290, 2024)
 
 Site : http://amxpool.com:8282
 
@@ -8,7 +8,7 @@ Discord: https://discord.gg/bYsZGSVf6e
 
 Telegram: https://t.me/DogmcoinEnglish
 
-X Twitter: https://twitter.com/msy2008
+X Twitter: https://twitter.com/JAX290
 
 Discord: https://discord.gg/3Qq2neb
 
@@ -16,11 +16,11 @@ Telegram: https://t.me/infinitecoin_IFC
 
 TUTO Youtube (16.04 / 18.04 - Without SSL) : https://www.youtube.com/watch?v=qE0rhfJ1g2k
 
-msy2008 Yiimp (used in this script for Yiimp Installation): https://github.com/msy2008/yiimp
+JAX290 Yiimp (used in this script for Yiimp Installation): https://github.com/JAX290/yiimp
 
-msy2008 Stratum (Use separately developed stratum): https://github.com/msy2008/stratum-full
+JAX290 Stratum (Use separately developed stratum): https://github.com/JAX290/stratum-full
 
-msy2008 Yiimp Installer : https://github.com/msy2008/yiimp_install_scrypt
+JAX290 Yiimp Installer : https://github.com/JAX290/yiimp_install_scrypt
 
 Original Yiimp : https://github.com/tpruvot/yiimp
 
@@ -29,7 +29,7 @@ Original Yiimp Installer : https://github.com/xavatar/yiimp_install_scrypt
 
 ***********************************
 
-## Install script for yiimp on Ubuntu Server 16.04 / 18.04 (use msy2008's Yiimp)
+## Install script for yiimp on Ubuntu Server 16.04 / 18.04 (use JAX290's Yiimp)
 
 USE THIS SCRIPT ON FRESH INSTALL UBUNTU Server 16.04 / 18.04 !
 
@@ -74,7 +74,7 @@ sudo apt-get install build-essential libssl-dev curl git-core openssh-server
 cd ~
 ```
 ```
-git clone https://github.com/msy2008/yiimp_install_scrypt.git
+git clone https://github.com/JAX290/yiimp_install_scrypt.git
 ```
 ```
 cd yiimp_install_scrypt
@@ -89,7 +89,7 @@ bash install.sh
  
 1.Download the Yiimp stratum
 ```
-git clone https://github.com/msy2008/stratum-full.git
+git clone https://github.com/JAX290/stratum-full.git
 ```
 
 2.Compile
